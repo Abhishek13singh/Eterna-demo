@@ -1,4 +1,6 @@
 # Eterna-demo
+
+Extract the .rar file.
 Requirements----> Python,Django frame work. 
 >> To check run "python --version" command in terminal.(for python)
 >
