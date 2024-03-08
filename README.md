@@ -14,7 +14,7 @@ Requirements----> Python,Django frame work.
 
 NOW ALL SET.
 
-  TO RUN THE PROJECT YOU NEED TO RUNTHE FOLLOWING CMD IN YOUR TERMINAL 
+  TO RUN THE PROJECT YOU NEED TO RUN THE FOLLOWING CMD IN YOUR TERMINAL 
   py manage.py runserver
 
   and you site will run on your browser.
